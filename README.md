@@ -1,6 +1,6 @@
 Hosted in Netlify
 
-https://react-linking-routing.netlify.app/contact
+https://react-linking-routing.netlify.app
 
 # Getting Started with Create React App
 
